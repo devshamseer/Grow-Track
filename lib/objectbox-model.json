@@ -1,0 +1,67 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:2647430272785134731",
+      "lastPropertyId": "8:1674220530148270665",
+      "name": "Expense",
+      "properties": [
+        {
+          "id": "1:5793171714388588976",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:874171967040614452",
+          "name": "uuid",
+          "type": 9
+        },
+        {
+          "id": "3:8355309067671225160",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "4:6738547152658937556",
+          "name": "description",
+          "type": 9
+        },
+        {
+          "id": "5:341304190065330043",
+          "name": "expTitel",
+          "type": 9
+        },
+        {
+          "id": "6:7594774142218587861",
+          "name": "amount",
+          "type": 8
+        },
+        {
+          "id": "7:1052322163695037095",
+          "name": "createdDate",
+          "type": 9
+        },
+        {
+          "id": "8:1674220530148270665",
+          "name": "sync",
+          "type": 1
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:2647430272785134731",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
